@@ -11,7 +11,20 @@ module.exports = {
 	    },
 	    fontFamily: {
 		'catchy': ['RobotoSerif', 'serif']
-	    }
+	    },
+	    keyframes: {
+		'beat': {
+		    '0%': {},
+		    '7%': {
+			'transform': 'scale(1.125)',
+		    },
+		    '15%': {
+			'transform': 'scale(1)'
+
+		    }
+
+		}
+	    },
 	},
     },
     plugins: [],
