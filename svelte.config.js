@@ -14,9 +14,6 @@ const config = {
 	prerender: {
 	    default: true
 	},
-	paths: {
-	    base: dev ? '' : '/tirissou.github.io',
-	},
 	appDir: 'internal'
 
         // hydrate the <div id="svelte"> element in src/app.html

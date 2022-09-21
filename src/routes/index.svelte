@@ -4,7 +4,7 @@
 
 <!-- Catchy summary -->
 <h1 class="text-zinc-600 lg:text-4xl text-2xl font-medium pb-2 ">Hi, I'm Thibault!</h1>
-<p class="text-zinc-500 font-catchy font-light text-lg lg:text-3xl pb-[10%]">B.A. triple major in CS + Sociology + French, Oberlin '21. <br>Generalist software engineer.</p>
+<p class="text-zinc-500 font-catchy font-light text-lg lg:text-3xl pb-[10%]">B.A. triple major in CS + Sociology + French, <i>Oberlin '21</i>. <br>Generalist software engineer.</p>
 
 <!-- Navigation for resume portion -->
 <nav class='flex flex-row flex-wrap mx-auto justify-center text-amber-600'>
