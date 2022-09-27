@@ -3,11 +3,13 @@
 
 
 <!-- Catchy summary -->
-<h1 class="text-zinc-600 lg:text-4xl text-2xl font-medium pb-2 ">Hi, I'm Thibault!</h1>
-<p class="text-zinc-500 font-catchy font-light text-lg lg:text-3xl pb-[10%]">
-    2021 BA from <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.oberlin.edu/">Oberlin College</a> majoring in CS, Sociology, French.<br>
-    Software engineer at <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.axiomcloud.ai">Axiom Cloud</a> focused on machine learning operations and data engineering.
-</p>
+<h1 class="text-zinc-600 lg:text-4xl text-3xl font-medium pb-3 ">Hi, I'm Thibault!</h1>
+<div class="text-zinc-500 font-catchy font-light text-xl lg:text-3xl pb-10">
+    <p class="mb-3"> Software engineer at <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.axiomcloud.ai">Axiom Cloud</a> focused on machine learning operations and data engineering.</p>
+    <p>
+    BA, <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.oberlin.edu/">Oberlin College</a>, majoring in CS, Sociology, and French.
+    </p>
+</div>
 
 <!-- Navigation for resume portion -->
 <nav class='flex flex-row flex-wrap mx-auto justify-center text-amber-600'>
