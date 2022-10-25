@@ -5,7 +5,7 @@
 <!-- Catchy summary -->
 <h1 class="text-zinc-600 lg:text-4xl text-3xl font-medium pb-3 ">Hi, I'm Thibault!</h1>
 <div class="text-zinc-500 font-catchy font-light text-xl lg:text-3xl pb-10">
-    <p class="mb-3"> Software engineer at <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.axiomcloud.ai">Axiom Cloud</a> focused on machine learning operations and data engineering.</p>
+    <p class="mb-3"> SWE + MLOps and Data Engineering @ <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.axiomcloud.ai">Axiom Cloud</a></p>
     <p>
     BA, <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.oberlin.edu/">Oberlin College</a>, majoring in CS, Sociology, and French.
     </p>
@@ -27,9 +27,11 @@
     </svg>
 
     <!-- Projects -->
-    <svg xmlns="http://www.w3.org/2000/svg" class="animate-[beat_5s_ease-in-out_2300ms_infinite] hover:text-amber-500 h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-    </svg>
+    <a href="https://github.com/tirissou">
+	<svg xmlns="http://www.w3.org/2000/svg" class="animate-[beat_5s_ease-in-out_2300ms_infinite] hover:text-amber-500 h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+	    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+	</svg>
+    </a>
 
 </nav>
 
