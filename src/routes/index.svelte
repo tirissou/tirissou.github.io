@@ -3,11 +3,11 @@
 
 
 <!-- Catchy summary -->
-<h1 class="text-zinc-600 lg:text-4xl text-3xl font-medium pb-3 ">Hi, I'm Thibault!</h1>
-<div class="text-zinc-500 font-catchy font-light text-xl lg:text-3xl pb-10">
-    <p class="mb-3"> SWE + MLOps and Data Engineering @ <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.axiomcloud.ai">Axiom Cloud</a></p>
+<h1 class="text-zinc-700 lg:text-5xl text-3xl font-catchy font-medium pb-3 ">Hi, I'm Thibault!</h1>
+<div class="text-zinc-500 font-catchy font-light text-2xl lg:text-3xl pb-16">
+    <p class="mb-3"> SWE + MLOps @ <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.axiomcloud.ai">Axiom Cloud</a>.</p>
     <p>
-    BA, <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.oberlin.edu/">Oberlin College</a>, majoring in CS, Sociology, and French.
+    BA, <a target="_blank" rel="noopener noreferrer" class="text-amber-700 hover:text-amber-500" href="https://www.oberlin.edu/">Oberlin College</a>, triple major in computer science, sociology, and French.
     </p>
 </div>
 
